@@ -2,7 +2,7 @@
     "name": "kontribusikuy/lapack-profiles",
     "description": "Profile management package built with Laravel",
     "require": {
-        "laravel/laravel": "^8.5",
+        "laravel/laravel": "^8",
         "kontribusikuy/latraits": "dev-main"
     },
     "license": "MIT",
